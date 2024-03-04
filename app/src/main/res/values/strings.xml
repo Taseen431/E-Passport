@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">E-Passport</string>
+
+    <string name="home_text">Home</string>
+    <string name="user_text">About User</string>
+    <string name="countries_text">Countries</string>
+    <string name="logout_text">Logout</string>
+
+    <string name="ok_btn">Ok</string>
+    <string name="yes_btn">Yes</string>
+    <string name="no_btn">No</string>
+    <string name="close_btn">Close</string>
+    <string name="exit_btn">Exit</string>
+    <string name="settings_btn">Settings</string>
+    <string name="login_btn">Login</string>
+    <string name="logout_btn">Logout</string>
+    <string name="sign_up_btn">Sign Up</string>
+    <string name="update_user_btn">Update</string>
+    <string name="update_user_update_btn">Update profile</string>
+    <string name="apply_btn">Apply for Passport</string>
+
+    <string name="did_not_apply_status">DIDN\'T APPLY</string>
+    <string name="pending_status">PENDING</string>
+
+    <string name="sign_up_hint">Don\'t have an account?</string>
+    <string name="user_profile_pic_change_hint">Tap to change profile pic</string>
+
+    <string name="signing_up_msg">Signing up...</string>
+    <string name="signing_up_error_msg">Signing up failed</string>
+    <string name="logging_in_msg">Logging in...</string>
+    <string name="logging_in_error_msg">Logging in failed!</string>
+    <string name="updating_user_msg">Updating user...</string>
+    <string name="updating_user_error_msg">Updating user failed!</string>
+    <string name="creating_user_msg">Creating user...</string>
+    <string name="creating_user_error_msg">Creating user failed!</string>
+    <string name="data_loading">Data loading...</string>
+    <string name="json_data_url">https://api.myjson.online/v1/records/3ed71915-ba3d-494d-bf50-facb8b38b22b</string>
+
+    <string name="current_status_hint">Current status:\u00A0</string>
+
+    <string name="name_hint">User Name</string>
+    <string name="name_error_hint">Enter a valid name</string>
+    <string name="email_hint">Email</string>
+    <string name="email_error_hint">Enter a valid email address</string>
+    <string name="password_hint">Password</string>
+    <string name="password_error_hint">Password is required</string>
+    <string name="password_wrong_error_hint">Wrong password!</string>
+    <string name="password_strong_error_hint">Password must be at least 8 characters long and contain letters, numbers, and symbols.</string>
+    <string name="confirm_password_hint">Confirm Password</string>
+    <string name="confirm_password_error_hint">Confirm Password is required</string>
+    <string name="confirm_password_match_error_hint">Password does\'t match</string>
+    <string name="phone_number_hint">Mobile Number</string>
+    <string name="phone_number_error_hint">Enter a valid mobile number</string>
+    <string name="address_hint">Address</string>
+    <string name="address_error_hint">Enter a valid address</string>
+    <string name="nid_number_hint">NID Number</string>
+    <string name="nid_number_error_hint">Enter a valid NID number</string>
+    <string name="nid_font_hint">NID Front</string>
+    <string name="nid_back_hint">NID Back</string>
+    <string name="date_of_birth_hint">Date of birth</string>
+    <string name="date_of_birth_error_hint">Age must be greater then 5 years</string>
+    <string name="gender_hint">Gender</string>
+
+    <string name="gender_male_hint">Male</string>
+    <string name="gender_female_hint">Female</string>
+    <string name="gender_others_hint">Others</string>
+
+    <string name="user_info_email_title">Email:\u00A0</string>
+    <string name="user_info_date_of_birth_title">Date of birth:\u00A0</string>
+    <string name="user_info_age_title">Age:\u00A0</string>
+    <string name="user_info_gender_title">Gender:\u00A0</string>
+    <string name="user_info_phone_number_title">Phone:\u00A0</string>
+    <string name="user_info_address_title">Address:\u00A0</string>
+    <string name="user_info_nid_number_title">NID:\u00A0</string>
+
+    <string name="exit_dialog_title">Exit!</string>
+    <string name="exit_dialog_descriptions">Do you want to exit the app?</string>
+
+    <string name="no_internet_dialog_title">No Internet Connection</string>
+    <string name="no_internet_dialog_msg">Please connect to the internet and try again.</string>
+
+    <string name="profile_image_chooser_image_invalid_toast">User profile image invalid</string>
+    <string name="nid_front_image_chooser_image_invalid_toast">NID front image invalid</string>
+    <string name="nid_back_image_chooser_image_invalid_toast">NID back image invalid</string>
+    <string name="image_chooser_dialog_title">Select Image Source</string>
+    <string name="image_chooser_dialog_camera">From Camera</string>
+    <string name="image_chooser_dialog_gallery">From Gallery</string>
+
+    <string name="about_dialog_title">About Developer</string>
+
+    <string name="developer_name">Taseen Tahmid</string>
+    <string name="developer_descriptions">Passionate Android developer proficient in Java.Creates robust and user-friendly mobile apps,following best practices.Committed to delivering excellence in each project,ensuring client satisfaction through clean,efficient code.</string>
+
+    <string name="drawer_open_hint">Drawer is Open</string>
+    <string name="drawer_close_hint">Drawer is Close</string>
+    <string name="drawer_menu_communications">Communications</string>
+    <string name="menu_about_developer">About Developer</string>
+
+</resources>

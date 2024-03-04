@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/drawer_home"
+            android:title="@string/home_text"
+            android:icon="@drawable/ic_home"/>
+
+        <item
+            android:id="@+id/drawer_user"
+            android:title="@string/user_text"
+            android:icon="@drawable/ic_profile"/>
+
+        <item
+            android:id="@+id/drawer_countries"
+            android:title="@string/countries_text"
+            android:icon="@drawable/ic_countries"/>
+
+        <item
+            android:id="@+id/drawer_logout"
+            android:title="@string/logout_text"
+            android:icon="@drawable/ic_logout"/>
+    </group>
+
+    <item
+        android:title="@string/drawer_menu_communications">
+        <menu>
+            <item
+                android:id="@+id/drawer_about"
+                android:title="@string/menu_about_developer"
+                android:icon="@drawable/ic_about"/>
+        </menu>
+    </item>
+</menu>

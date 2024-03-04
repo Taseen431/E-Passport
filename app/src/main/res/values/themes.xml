@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.EPassport" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary_color</item>
+    </style>
+    <style name="Theme.EPassport.SplashScreen" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary_color</item>
+        <item name="android:navigationBarColor">@color/primary_color</item>
+        <item name="android:windowBackground">@color/primary_color</item>
+    </style>
+</resources>
